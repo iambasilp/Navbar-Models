@@ -32,7 +32,7 @@ body{
 .header-main{
     padding: 1rem 2rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
 }
 .header-menu{
@@ -46,11 +46,7 @@ body{
     font-weight: 500;
 }
 .header-logo{
-    order: 3;
-    margin-left: auto;
-}
-nav{
-    order: 1;
+    margin-right: auto;
 }
 .header-logo a{
     color: white;
@@ -62,6 +58,7 @@ nav{
     color: yellow;
 }
 a.cta button{
+    margin-left: 1.4rem;
        display: block;
     background-color: red;
     padding: .8rem 1.2rem;
