@@ -45,7 +45,13 @@ body{
     padding: 2rem 0;
     font-weight: 500;
 }
-
+.header-logo{
+    order: 3;
+    margin-left: auto;
+}
+nav{
+    order: 1;
+}
 .header-logo a{
     color: white;
     font-size: 1.5rem;
