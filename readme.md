@@ -4,11 +4,11 @@
 
 ## Preview 2
 
-![Portfolio](./navbar-1/images/preview2.png)
+![Portfolio](./navbar-1/images/preview3.png)
 
 ## Preview 3
 
-![Portfolio](./navbar-1/images/preview3.png)
+![Portfolio](./navbar-1/images/preview2.png)
 
 
 ## Run Locally
